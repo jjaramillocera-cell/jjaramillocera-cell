@@ -1,10 +1,11 @@
-## Hi dead word i not  👋
 
 # About Me
-I am Julian J
+I am Julian Jaramillo, i am 22 years olds.
+And here are some things about me.
+
+I currently study and work simultaneously
 
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
