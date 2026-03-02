@@ -1,7 +1,8 @@
 ## Hi dead word i not  👋
 
-<!--iajodjaosmdaojdosaj
-**jjaramillocera-cell/jjaramillocera-cell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.jnhbnhbgg
+# About Me
+I am Julian J
+
 
 Here are some ideas to get you started:
 
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 -->
